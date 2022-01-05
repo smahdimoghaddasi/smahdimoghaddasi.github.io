@@ -72,14 +72,16 @@
  ## مقالات:
  <br/>
 </div>
-Magnetic Resonance Imaging Noise Elimination with Thresolding Using Teaching –Learning-based Optimization Algorithm
+1.Magnetic Resonance Imaging Noise Elimination with Thresolding Using Teaching –Learning-based Optimization Algorithm
 <br/>
-Classification ECG of Cardiac Signals Using LPC Features and Support Vector Machine
+2.Classification ECG of Cardiac Signals Using LPC Features and Support Vector Machine
 <br/>
 <div dir="rtl">
-تشخیص تومورهای سرطانی مغزی از روی تصاویر MRI با استفاده ازطبقه بندی FDA
+3.  
+تشخیص تومورهای سرطانی مغزی از روی تصاویر MRI با استفاده از طبقه بندی FDA
  <br/>
-پیش بینی تشنج صرعی از روی سیگنال EEG با استفاده از تبدیل ویولت DT-CWT و ماشین بردار پشتیبان 
+4.پیش بینی تشنج صرعی از روی سیگنال EEG با استفاده از تبدیل ویولت DT-CWT و ماشین بردار پشتیبان
 <br/>
-تشخیص تومورهای مغزی از تصاویر MRI  با استفاده از شبکه یادگیری عمیق کانولوشنی
+5. تشخیص تومورهای مغزی از تصاویر MRI با استفاده از شبکه یادگیری عمیق کانولوشنی
+
 
