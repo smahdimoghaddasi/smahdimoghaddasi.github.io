@@ -85,7 +85,7 @@ Python-برنامه نویسی
   
  <br/> 
   
- ✔ مقالات:
+✔ مقالات:
 <br/>
 </div>
 1.Magnetic Resonance Imaging Noise Elimination with Thresolding Using Teaching –Learning-based Optimization Algorithm
